@@ -1,6 +1,7 @@
 ### Hi there, I'm Sigit wasis subekti 👋
 
 ## I'm a Boy, Developer, and Studying!
+- 💺 I'm web developer in PT. Microdata Indonesia
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like playing futsal and badminton
