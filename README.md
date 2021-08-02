@@ -21,3 +21,5 @@
 [blog]: https://sigit-wasis.github.io/
 [twitter]: https://twitter.com/Sigit_wasis13
 [linkedin]: https://www.linkedin.com/in/sigit-wasis-subekti-1840a3165/
+
+![](https://komarev.com/ghpvc/?username=Sigit-Wasis&color=green)
