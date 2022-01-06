@@ -3,7 +3,7 @@
 ## I'm a Boy, Developer, and Studying!
 - 💺 I'm web developer in PT. Microdata Indonesia
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: create a project with react js
+- 🥅 2022 Goals: create a project with Next JS
 - ⚡ Fun fact: I like playing futsal and badminton
 
 ### Connect with me:
