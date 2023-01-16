@@ -19,8 +19,6 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sigit-Wasis&show_icons=true&hide_border=true" />
-
 [blog]: https://sigit-wasis.github.io/
 [twitter]: https://twitter.com/Sigit_wasis13
 [linkedin]: https://www.linkedin.com/in/sigit-wasis-subekti-1840a3165/
