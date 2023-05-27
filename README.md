@@ -3,8 +3,6 @@
 ## I'm a Boy, Developer, and Studying!
 - 💺 I'm web developer in PT. Microdata Indonesia
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: create a project with Next JS
-- ⚡ Fun fact: I like playing futsal and badminton
 
 ### Connect with me:
 
@@ -16,6 +14,7 @@
 <br />
 ---
 
-[blog]: https://sigit-wasis.github.io/
+[portfolio]: https://sigit-wasis.github.io/
+[blog]: https://www.embuncode.com/
 [twitter]: https://twitter.com/Sigit_wasis13
 [linkedin]: https://www.linkedin.com/in/sigit-wasis-subekti-1840a3165/
