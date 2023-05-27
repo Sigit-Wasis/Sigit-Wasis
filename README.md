@@ -14,9 +14,6 @@
 ![](https://komarev.com/ghpvc/?username=Sigit-Wasis&color=green)
 
 <br />
-
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
-
 ---
 
 [blog]: https://sigit-wasis.github.io/
