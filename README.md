@@ -12,7 +12,6 @@
 ![](https://komarev.com/ghpvc/?username=Sigit-Wasis&color=green)
 
 <br />
----
 
 [portfolio]: https://sigit-wasis.github.io/
 [blog]: https://www.embuncode.com/
