@@ -1,6 +1,6 @@
 ### Hi there, I'm Sigit wasis subekti 👋
 
-## I'm a Boy, Developer, and Studying!
+- I'm a Boy, Developer, and Studying!
 - 💺 I'm web developer in PT. Microdata Indonesia
 - 🌱 I’m currently learning everything 🤣
 
