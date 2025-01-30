@@ -15,5 +15,5 @@
 
 [portfolio]: https://sigit-wasis.github.io/
 [blog]: https://www.embuncode.com/
-[twitter]: https://twitter.com/Sigit_wasis13
+[twitter]: https://twitter.com/gitwasis
 [linkedin]: https://www.linkedin.com/in/sigit-wasis-subekti-1840a3165/
